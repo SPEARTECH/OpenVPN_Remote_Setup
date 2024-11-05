@@ -1,2 +1,2 @@
-# OpenVPN_Remote_Setup
+# OpenVPN Remote Setup
 OpenVPN Server + Client setup scripts &amp; directions.
